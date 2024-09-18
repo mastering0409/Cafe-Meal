@@ -13,6 +13,7 @@ import { AuthenticationContextProvider } from './src/services/authentication/Aut
 
 const firebaseConfig = {
   apiKey: 'AIzaSyAMOQP9M0--a-l6JDPF5wIXxSHtTd58BLw',
+  apiKey1: 'AIzaSyAMOQP9M0--a-l6JDPF5wIXxSHtTd58BLw',
   authDomain: 'yummeals-e8d3d.firebaseapp.com',
   projectId: 'yummeals-e8d3d',
   storageBucket: 'yummeals-e8d3d.appspot.com',
